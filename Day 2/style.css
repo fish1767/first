@@ -1,0 +1,20 @@
+body p{
+    color: blue;
+}
+
+.bigtitle {
+    font-size: 30px;
+}
+.intro {
+    background-color: yellow;
+}
+#intro-for-id {
+    background-color: red;
+}
+section>p {
+    background-color: blue;
+}
+
+h1 + p{
+    font-size: 5px;
+}
